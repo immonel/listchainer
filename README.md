@@ -1,9 +1,10 @@
 # ListChainer
 
-Introduction text here
+This webapp was created as a demo for the course User-Centered Product Development Project in Aalto University. The deployed version can be found here https://immonel.github.io/listchainer/. All rights reserved.
 
-## Getting started
+Repository imported from https://version.aalto.fi/.
 
+## Development
 
 0. Clone the repository
 1. Run `npm install` and `npm start`
